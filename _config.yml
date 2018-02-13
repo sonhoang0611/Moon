@@ -1,7 +1,7 @@
 # Site
 title:              Son Hoang
 bio:                'Reading, Listening, Coding.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+description:        'Front-end developer, book and classic music lover, writer someday.''
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -38,23 +38,23 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
-facebook:           username
-github-url:         username
+twitter:            htson95
+facebook:           hoangts
+github-url:         sonhoang0611
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+instagram:          son.hth
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
-#soundcloud:        username
+soundcloud:         son.ht
 #weibo:             username
 #flickr:            username
 #codepen:           username
