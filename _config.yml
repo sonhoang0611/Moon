@@ -1,9 +1,9 @@
 # Site
 title:              Son Hoang
 bio:                'Reading, Listening, Coding.'
-description:        'Front-end developer, book and classic music lover, writer someday.'
+description:        'Junior front-end developer, books lover.'
 reading_time:       true
-words_per_minute:   200
+words_per_minute:   180
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
@@ -39,7 +39,7 @@ disqus_shortname:   taylantatli
 #bing-verify:
 #email:
 twitter:            htson95
-facebook:           hoangts
+facebook:           hoangts1
 github-url:         sonhoang0611
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
@@ -54,7 +54,7 @@ instagram:          son.hth
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
-soundcloud:         son.ht
+soundcloud:         son_ht
 #weibo:             username
 #flickr:            username
 #codepen:           username

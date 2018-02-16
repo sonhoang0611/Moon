@@ -2,7 +2,7 @@
 layout: post
 title: "Hello blog"
 date: 2018-02-16
-excerpt: "My very first post."
+excerpt: "Bài viết đầu tiên."
 tags: [Random]
 comments: false
 ---
