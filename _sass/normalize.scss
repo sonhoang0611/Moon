@@ -246,3 +246,7 @@ textarea {
 [type="search"]::-webkit-search-decoration {
   -webkit-appearance: none;
 }
+
+::selection {
+  background: rgba(255, 249, 197, 0.99);
+}

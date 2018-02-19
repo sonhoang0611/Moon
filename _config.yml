@@ -3,7 +3,7 @@ title:              Son Hoang
 bio:                'Reading, Listening, Coding.'
 description:        'Junior front-end developer, books lover.'
 reading_time:       true
-words_per_minute:   180
+words_per_minute:   220
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
